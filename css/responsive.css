@@ -41,6 +41,12 @@
   #navbar nav a{
     font-size:0.9em;
   }
+  
+    .col-3 p{
+    -moz-column-count: 1;
+    -webkit-column-count: 2;
+    column-count: 2;
+  }
 }
 
 
