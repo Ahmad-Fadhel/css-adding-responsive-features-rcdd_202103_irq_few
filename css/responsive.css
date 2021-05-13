@@ -16,8 +16,9 @@
     font-size:85%;
   }
   
-  #social{
-    position:absolute;
+  #logo h1{
+    height:35px;
+    width:35px;
     
   }
 }
