@@ -58,7 +58,9 @@
     border:none;
   }
   
-  
+  #details div{
+    height:auto;
+  }
 }
 
 
